@@ -35,7 +35,7 @@ I have worked on a variety of smart contract protocol security audits including:
 
 
 
-## Expertise
+## Languages & Expertise
 
 | Expertise           | 
 | ------------------- | 
