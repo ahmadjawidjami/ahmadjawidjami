@@ -39,16 +39,20 @@ I have worked on a variety of smart contract protocol security audits including:
 
 | Expertise           | 
 | ------------------- | 
-| **Solidity Smart Contracts**    | 
-| **Vyper Smart Contracts** | 
-| **DeFi Protocols** | 
+| **EVM**    | 
+| **Bitcoin**    | 
+| **Near**    | 
+| **Smart Contracts**    | 
+| **Defi Protocols**    | 
 | **DAOs**     | 
+
 
 | Languages           | 
 | ------------------- | 
-| **Solidity/EVM**    |
+| **Solidity**    |
 | **Vyper**     |
 | **Sway**     | 
+| **Rust**     | 
 | **Javascript** | 
 | **Typescript** |  
 | **Java**     |  
