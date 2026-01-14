@@ -1,17 +1,17 @@
 # Jawid
 
 
-This is my public profile where I will share highlights of my work. 
+I am a blockchain security auditor and engineer with over a decade of experience in software engineering and a Master’s degree in computer science. I have been an active Ethereum contributor since 2016 and have spent the past 4+ years working as a senior security auditor.
 
-I have a Master’s degree in computer science and have been a software engineer for over a decade and an active Ethereum contributor since 2016. 
+I am currently a Senior Security Auditor and Engineer at Defense by Thesis, the security auditing arm of Thesis Inc. Previously, I worked as a Security Auditor at Least Authority.
 
-Currently, I am a Security Auditor and Engineer at Thesis Defense, the security auditing arm of Thesis Inc. Prior to this, I worked as a Security Auditor at Least Authority. 
+I have audited 30+ projects across multiple ecosystems, including smart contract systems, cross-chain infrastructure, and protocol-level designs.
 
-To date, I have audited over 30 projects across multiple ecosystems, including Ava Labs Teleporter Smart Contracts, Neokingdom DAO smart contracts, Cube3 Protocol, Diva Staking Smart Contracts, Velar Perpdex Vyper Smart Contracts, and more.
+I specialize in identifying deep, protocol-level issues rather than surface-level defects across complex, multi-ecosystem systems. My approach combines meticulous line-by-line code review, documentation analysis, and direct engagement with protocol teams to build a comprehensive understanding of system design and state transitions, enabling me to uncover subtle edge-case vulnerabilities that are often overlooked.
 
-I am passionate about blockchain technologies’ transformative potential and particularly interested in how decentralized systems can revolutionize security and data privacy for finance. 
+I am particularly interested in the security, correctness, and privacy properties of decentralized systems and their application to financial infrastructure.
 
-I have worked on a variety of smart contract protocol security audits including: 
+Selected smart contract and protocol security audits are listed below.
 
 ## Public Audits:
 
@@ -48,21 +48,21 @@ I have worked on a variety of smart contract protocol security audits including:
 
 | Expertise           | 
 | ------------------- | 
-| **EVM**    | 
-| **Bitcoin** | 
-| **NEAR** | 
-| **Smart Contracts** | 
+| **EVM / Ethereum Ecosystem**    | 
+| **Bitcoin Protocol & Applications** | 
+| **NEAR Protocol** | 
 | **DeFi Protocols**    | 
-| **DAOs**    | 
-| **Bridges**    | 
+| **DAOs & Governance Systems**    | 
+| **Cross-Chain Bridges**    | 
+| **Smart Contract Architecture & Security** | 
 
 | Languages           | 
 | ------------------- | 
 | **Solidity**    |
 | **Vyper**     |
 | **Rust**     | 
-| **Javascript** | 
 | **Typescript** |  
+| **Javascript** | 
 | **Java**     |  
 
 
