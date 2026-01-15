@@ -5,7 +5,7 @@ I am a blockchain security auditor and engineer with over a decade of experience
 
 I am currently a Senior Security Auditor and Engineer at Defense by Thesis, the security auditing arm of Thesis Inc. Previously, I worked as a Security Auditor at Least Authority.
 
-I have audited 30+ projects across multiple ecosystems, including smart contract systems, cross-chain infrastructure, and protocol-level designs.
+I have audited 40+ projects across multiple ecosystems, including smart contract systems, cross-chain infrastructure, and protocol-level designs.
 
 I specialize in identifying deep, protocol-level issues rather than surface-level defects across complex, multi-ecosystem systems. My approach combines meticulous line-by-line code review, documentation analysis, and direct engagement with protocol teams to build a comprehensive understanding of system design and state transitions, enabling me to uncover subtle edge-case vulnerabilities that are often overlooked.
 
