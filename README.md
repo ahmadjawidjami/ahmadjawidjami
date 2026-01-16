@@ -3,7 +3,7 @@
 
 Senior blockchain security auditor with a strong software engineering background and over a decade of experience analyzing complex systems. Active Ethereum contributor since 2016, with 4+ years of professional experience conducting protocol and smart contract security audits.
 
-Currently a Senior Security Auditor at Defense by Thesis, and previously a Security Auditor at Least Authority, with audits of 40+ projects spanning smart contract systems, cross-chain infrastructure, and protocol-level designs across multiple blockchain ecosystems.
+Currently a Senior Security Auditor at Defense [by Thesis], and previously a Security Auditor at Least Authority, with audits of 40+ projects spanning smart contract systems, cross-chain infrastructure, and protocol-level designs across multiple blockchain ecosystems.
 
 Specializes in identifying deep, protocol-level issues rather than surface-level defects through rigorous reasoning about system design, state transitions, and adversarial edge cases. Audit methodology combines meticulous line-by-line code review, documentation and design analysis, and direct engagement with protocol teams to uncover subtle, high-impact vulnerabilities.
 
