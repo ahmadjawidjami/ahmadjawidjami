@@ -1,17 +1,15 @@
 # Jawid
 
 
-I am a blockchain security auditor and engineer with over a decade of experience in software engineering and a Master’s degree in computer science. I have been an active Ethereum contributor since 2016 and have spent the past 4+ years working as a senior security auditor.
+Senior blockchain security auditor with a strong software engineering background and over a decade of experience analyzing complex systems. Active Ethereum contributor since 2016, with 4+ years of professional experience conducting protocol and smart contract security audits.
 
-I am currently a Senior Security Auditor and Engineer at Defense by Thesis, the security auditing arm of Thesis Inc. Previously, I worked as a Security Auditor at Least Authority.
+Currently a Senior Security Auditor at Defense by Thesis, and previously a Security Auditor at Least Authority, with audits of 40+ projects spanning smart contract systems, cross-chain infrastructure, and protocol-level designs across multiple blockchain ecosystems.
 
-I have audited 40+ projects across multiple ecosystems, including smart contract systems, cross-chain infrastructure, and protocol-level designs.
+Specializes in identifying deep, protocol-level issues rather than surface-level defects through rigorous reasoning about system design, state transitions, and adversarial edge cases. Audit methodology combines meticulous line-by-line code review, documentation and design analysis, and direct engagement with protocol teams to uncover subtle, high-impact vulnerabilities.
 
-I specialize in identifying deep, protocol-level issues rather than surface-level defects across complex, multi-ecosystem systems. My approach combines meticulous line-by-line code review, documentation analysis, and direct engagement with protocol teams to build a comprehensive understanding of system design and state transitions, enabling me to uncover subtle edge-case vulnerabilities that are often overlooked.
+Particularly interested in the security, correctness, and privacy properties of decentralized systems and their application to financial infrastructure.
 
-I am particularly interested in the security, correctness, and privacy properties of decentralized systems and their application to financial infrastructure.
-
-Selected smart contract and protocol security audits are listed below.
+Selected smart contract and protocol security audit reports are listed below.
 
 ## Public Audits:
 
