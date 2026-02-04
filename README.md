@@ -24,7 +24,6 @@ Selected smart contract and protocol security audit reports are listed below.
 | [Acre](https://acre.fi/) & [Mezo](https://info.mezo.org/) |	stBTC Smart Contracts |	August 2024|	[:page_facing_up:](PDFs/240808_Thesis_Defense-Mezo-Acre_stBTC_Smart_Contracts_Security_Audit_Report.pdf)	| Smart Contracts|Solidity |
 |[Velar Labs](https://www.velar.co/)|	Vyper Smart Contracts| 	June 2024	|[:page_facing_up:](PDFs/240717_Thesis_Defense-Velar_Vyper_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts| Vyper |
 | [Diva Staking](https://divastaking.com/)	|Diva Smart Contracts	|April-May, 2024|	Private	| Smart Contracts | Solidity |
-|[Mezo](https://info.mezo.org/)	| Mezo Smart Contracts	| April, 2024	| [:page_facing_up:](PDFs/240419_Thesis_Defense-Mezo_Smart_Contracts_Security_Audit_Report.pdf)	|  Smart Contracts | Solidity |
 |[Threshold Network](https://threshold.network/)|	tBTC Base Smart Contracts	| March 2024	| [:page_facing_up:](PDFs/240411_Thesis_Defense-Threshold_tBTC_Base_Smart_Contracts_Security_Audit_Report.pdf)	|  Smart Contracts | Solidity |
 |[Mezo](https://info.mezo.org/)|	Portal Smart Contracts|	March 2024	| [:page_facing_up:](PDFs/240314_Thesis_Defense-Mezo_Portal_Smart_Contracts_Security_Audit_Report.pdf)	|  Smart Contracts | Solidity|
 |[Cube3 Protocol](https://www.cube3.ai/)| Cube3 smart contracts |November 2023|[:page_facing_up:](PDFs/LA/Cube3_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf)|Smart Contracts | Solidity |
