@@ -60,7 +60,7 @@ Selected smart contract and protocol security audit reports are listed below.
       <td><a href="PDFs/250701_Defense_by_Thesis-Templar_Smart_Contracts_Final_Security_Audit_Report.pdf">📄</a></td>
       <td>Smart Contracts</td>
       <td>Rust</td>
-      <td>1, 4, 5, 6, 7, 10, 11, 12, <br> 13, 14*, 15, 16, 18, 19</td>
+      <td>1, 4, 5, 6, 7, 10, 11, 12,   13, 14*, 15, 16, 18, 19</td>
     </tr>
     <tr>
       <td><a href="https://www.coffer.network/">Coffer Network</a></td>
@@ -69,7 +69,7 @@ Selected smart contract and protocol security audit reports are listed below.
       <td><a href="PDFs/250123_Defense_by_Thesis-Coffer_Network_Smart_Contracts_Security_Audit_Report.pdf">📄</a></td>
       <td>Smart Contracts</td>
       <td>Solidity</td>
-      <td>2, 3, 4, 5, 6, 7, 8, 9*, <br> 10, 11*</td>
+      <td>2, 3, 4, 5, 6, 7, 8, 9*,   10, 11*</td>
     </tr>
     <tr>
       <td><a href="https://www.ref.finance/">NEAR Satoshi Protocol</a></td>
@@ -99,7 +99,7 @@ Selected smart contract and protocol security audit reports are listed below.
       <td><a href="PDFs/240717_Thesis_Defense-Velar_Vyper_Smart_Contracts_Security_Audit_Report.pdf">📄</a></td>
       <td>Smart Contracts</td>
       <td>Vyper</td>
-      <td>5, 6, 7, 8, 9, 10, 11*, 15, <br> 17, 20, 21, 22, 23, 24 </td>
+      <td>5, 6, 7, 8, 9, 10, 11*, 15,   17, 20, 21, 22, 23, 24 </td>
     </tr>
     <tr>
       <td><a href="https://divastaking.com/">Diva Staking</a></td>
@@ -144,7 +144,7 @@ Selected smart contract and protocol security audit reports are listed below.
       <td><a href="PDFs/LA/FilFi_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf">📄</a></td>
       <td>Smart Contracts</td>
       <td>Solidity</td>
-      <td>A, B, F*, <br> 1, 2, 7, 8, 9, 10, 11, 12*</td>
+      <td>A, B, F*,   1, 2, 7, 8, 9, 10, 11, 12*</td>
     </tr>
     <tr>
       <td><a href="https://www.neokingdom.org/">NEOKingdom DAO</a></td>
@@ -153,7 +153,7 @@ Selected smart contract and protocol security audit reports are listed below.
       <td><a href="PDFs/LA/NEOkingdom_DAO_Smart_Contracts_Final_Audit_Report_Updated.pdf">📄</a></td>
       <td>Smart Contracts</td>
       <td>Solidity</td>
-      <td>A, B, C, D, <br> 3, 4</td>
+      <td>A, B, C, D,   3, 4</td>
     </tr>
     <tr>
       <td><a href="https://worldcoin.org/">Worldcoin</a></td>
@@ -180,7 +180,7 @@ Selected smart contract and protocol security audit reports are listed below.
       <td><a href="PDFs/LA/Ava_Labs_Bridge_Smart_Contracts_Final_Audit_Report.pdf">📄</a></td>
       <td>Smart Contracts</td>
       <td>Solidity</td>
-      <td>A, B, C, <br> 5, 6, 7*, 8*, 9*</td>
+      <td>A, B, C,   5, 6, 7*, 8*, 9*</td>
     </tr>
     <tr>
       <td><a href="https://data-lake.co/">Data Lake</a></td>
@@ -198,7 +198,7 @@ Selected smart contract and protocol security audit reports are listed below.
       <td><a href="PDFs/LA/LeastAuthority_Data%20Lake%20Token_Vesting_Smart%20Contracts_Final_Audit_Report.pdf">📄</a></td>
       <td>Smart Contracts</td>
       <td>Solidity</td>
-      <td>A, B, C, E, G, <br> 1*, 2*, 3, 4, 6* 7*</td>
+      <td>A, B, C, E, G,   1*, 2*, 3, 4, 6* 7*</td>
     </tr>
     <tr>
       <td><a href="https://sovryn.com/">Sovryn</a></td>
