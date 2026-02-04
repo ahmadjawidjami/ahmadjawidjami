@@ -23,7 +23,6 @@ Selected smart contract and protocol security audit reports are listed below.
 | [NEAR Satoshi Protocol](https://www.ref.finance/)	|NEAR Satoshi Protocol Smart Contracts	|November 2024	|Private |	 Smart Contracts | Rust|
 | [Acre](https://acre.fi/) & [Mezo](https://info.mezo.org/) |	stBTC Smart Contracts |	August 2024|	[:page_facing_up:](PDFs/240808_Thesis_Defense-Mezo-Acre_stBTC_Smart_Contracts_Security_Audit_Report.pdf)	| Smart Contracts|Solidity |
 |[Velar Labs](https://www.velar.co/)|	Vyper Smart Contracts| 	June 2024	|[:page_facing_up:](PDFs/240717_Thesis_Defense-Velar_Vyper_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts| Vyper |
-| [Acre](https://acre.fi/)|	Acre Smart Contracts |	May 2024|	[:page_facing_up:](PDFs/240517_Thesis_Defense-Acre_Smart_Contracts_Security_Audit_Report.pdf)	| Smart Contracts|Solidity |
 | [Diva Staking](https://divastaking.com/)	|Diva Smart Contracts	|April-May, 2024|	Private	| Smart Contracts | Solidity |
 |[Mezo](https://info.mezo.org/)	| Mezo Smart Contracts	| April, 2024	| [:page_facing_up:](PDFs/240419_Thesis_Defense-Mezo_Smart_Contracts_Security_Audit_Report.pdf)	|  Smart Contracts | Solidity |
 |[Threshold Network](https://threshold.network/)|	tBTC Base Smart Contracts	| March 2024	| [:page_facing_up:](PDFs/240411_Thesis_Defense-Threshold_tBTC_Base_Smart_Contracts_Security_Audit_Report.pdf)	|  Smart Contracts | Solidity |
