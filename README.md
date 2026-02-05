@@ -60,7 +60,7 @@ Selected smart contract and protocol security audit reports are listed below.
       <td><a href="PDFs/250701_Defense_by_Thesis-Templar_Smart_Contracts_Final_Security_Audit_Report.pdf">📄</a></td>
       <td>Smart Contracts</td>
       <td>Rust</td>
-      <td>1, 4, 5, 6, 7, 10, 11, 12,   13, 14*, 15, 16, 18, 19</td>
+      <td>C: 1 . H: 4,5,6,7 . M: 10,11,12,13,14* . L:15,16 . I: 18,19</td>
     </tr>
     <tr>
       <td><a href="https://www.coffer.network/">Coffer Network</a></td>
