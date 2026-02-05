@@ -22,7 +22,7 @@ Selected smart contract and protocol security audit reports are listed below.
       <th>Report</th>
       <th>Type</th>
       <th>Language</th>
-      <th>Issues</th>
+      <th>My Findings</th>
     </tr>
   </thead>
   <tbody>
@@ -54,13 +54,13 @@ Selected smart contract and protocol security audit reports are listed below.
       <td>1, 2, 3</td>
     </tr>
     <tr>
-      <td><a href="https://www.templarfi.org/">Templar Protocol</a></td>
-      <td>Templar Smart Contracts</td>
-      <td>July 2025</td>
-      <td><a href="PDFs/250701_Defense_by_Thesis-Templar_Smart_Contracts_Final_Security_Audit_Report.pdf">📄</a></td>
-      <td>Smart Contracts</td>
-      <td>Rust</td>
-      <td>C:1 / H:4,5,6,7 / M:10,11,12,13,14* / L:15,16 / I:18,19</td>
+      <td><strong><a href="https://www.templarfi.org/">Templar Protocol</a></strong></td>
+      <td><strong>Templar Smart Contracts</strong></td>
+      <td><strong>July 2025</strong></td>
+      <td><strong><a href="PDFs/250701_Defense_by_Thesis-Templar_Smart_Contracts_Final_Security_Audit_Report.pdf">📄</a></strong></td>
+      <td><strong>Smart Contracts</strong></td>
+      <td><strong>Rust</strong></td>
+      <td><strong>1, 4, 5, 6, 7, 10, 11, 12, 13, 14*, 15, 16, 18, 19</strong></td>
     </tr>
     <tr>
       <td><a href="https://www.coffer.network/">Coffer Network</a></td>
