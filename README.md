@@ -54,13 +54,13 @@ Selected smart contract and protocol security audit reports are listed below.
       <td>1, 3</td>
     </tr>
     <tr>
-      <td><a href="https://www.rhea.finance/">Rhea Finance</a></td>
-      <td>Satoshi Bridge</td>
-      <td>August 2025</td>
-      <td><a href="PDFs/250812_Defense_by_Thesis-NEAR_Satoshi_Bridge_Smart_Contracts_Final_Audit_Report.pdf">📄</a></td>
-      <td>BTC&lt;&gt;NEAR Bridge</td>
-      <td>Rust</td>
-      <td>1, 2, 3</td>
+      <td><strong><a href="https://www.rhea.finance/">Rhea Finance</a></strong></td>
+      <td><strong>Satoshi Bridge</strong></td>
+      <td><strong>August 2025</strong></td>
+      <td><strong><a href="PDFs/250812_Defense_by_Thesis-NEAR_Satoshi_Bridge_Smart_Contracts_Final_Audit_Report.pdf">📄</a></strong></td>
+      <td><strong>BTC&lt;&gt;NEAR Bridge</strong></td>
+      <td><strong>Rust</strong></td>
+      <td><strong>1, 2, 3</strong></td>
     </tr>
     <tr>
       <td><strong><a href="https://www.templarfi.org/">Templar Protocol</a></strong></td>
