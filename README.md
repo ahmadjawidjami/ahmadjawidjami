@@ -229,7 +229,7 @@ Selected smart contract and protocol security audit reports are listed below.
     </tr>
   </tbody>
 </table>
-<p><em>* Indicates a shared finding.</em></p>
+<p><em>An asterisk (*) next to an issue number indicates a shared finding.</em></p>
 
 
 
