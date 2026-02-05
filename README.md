@@ -229,6 +229,7 @@ Selected smart contract and protocol security audit reports are listed below.
     </tr>
   </tbody>
 </table>
+<p><em>* Indicates a shared finding.</em></p>
 
 
 
