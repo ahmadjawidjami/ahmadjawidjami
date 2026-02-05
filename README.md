@@ -13,7 +13,7 @@ Selected smart contract and protocol security audit reports are listed below.
 
 ## Public Audits:
 
-## Selected Deep-Dive Audits
+#### Selected Deep-Dive Audits
 - **Templar Smart Contracts** — Protocol-level invariant and state transition analysis  
 - **Rhea Finance – Satoshi Bridge** — Cross-layer UTXO consistency and bridge state validation under adversarial transaction scenarios
 
