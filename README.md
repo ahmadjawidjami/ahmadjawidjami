@@ -61,7 +61,6 @@ Selected smart contract and protocol security audit reports are listed below.
       <td>Smart Contracts</td>
       <td>Rust</td>
       <td>C:1 / H:4,5,6,7 / M:10,11,12,13,14* / L:15,16 / I:18,19</td>
-      <td>1C, 4H, 5M, 2L, 2I</td>
     </tr>
     <tr>
       <td><a href="https://www.coffer.network/">Coffer Network</a></td>
