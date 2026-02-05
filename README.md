@@ -27,6 +27,15 @@ Selected smart contract and protocol security audit reports are listed below.
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://threshold.network/">Threshold Labs</a></td>
+      <td>Beta Signer Allowlist & Bridge Fee Rebates</td>
+      <td>September 2025</td>
+      <td><a href="PDFs/250925_Defense_by_Thesis_tLabs_Smart_Contracts_Final_Audit_Report.pdf">📄</a></td>
+      <td>Smart Contracts</td>
+      <td>Solidity</td>
+      <td>1, 2, 3, 4, 5, 6</td>
+    </tr>
+    <tr>
       <td><a href="https://midl.xyz/">Midl Execution Layer</a></td>
       <td>Midl Runes Indexation</td>
       <td>September 2025</td>
