@@ -99,7 +99,7 @@ Selected smart contract and protocol security audit reports are listed below.
       <td><a href="PDFs/240717_Thesis_Defense-Velar_Vyper_Smart_Contracts_Security_Audit_Report.pdf">📄</a></td>
       <td>Smart Contracts</td>
       <td>Vyper</td>
-      <td>5, 6, 7, 8, 9, 10, 11*, 15,   17, 20, 21, 22, 23, 24 </td>
+      <td>5, 6, 7, 8, 9, 10, 11*, 15, 20, 21, 22, 23, 24 </td>
     </tr>
     <tr>
       <td><a href="https://divastaking.com/">Diva Staking</a></td>
