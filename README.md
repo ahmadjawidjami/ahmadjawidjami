@@ -22,43 +22,43 @@ Selected smart contract and protocol security audit reports are listed below.
 
 1. **Duplicate Liquidations Can Drain Protocol Assets**
 
-    _Templar Protocol — Critical_
+    _Templar Protocol — Critical_ · [Report](PDFs/250701_Defense_by_Thesis-Templar_Smart_Contracts_Final_Security_Audit_Report.pdf)
 
 2. **Conflicting UTXO Management Rules May Eventually Lead to Bridge Lockup**
 
-    _Satoshi Bridge — High_
+    _Satoshi Bridge — High_ · [Report](PDFs/250812_Defense_by_Thesis-NEAR_Satoshi_Bridge_Smart_Contracts_Final_Audit_Report.pdf)
 
 3. **Free Borrowing by Borrowing at the Start and Repaying at the End of a Time Chunk**
 
-    _Templar Protocol — High_
+    _Templar Protocol — High_ · [Report](PDFs/250701_Defense_by_Thesis-Templar_Smart_Contracts_Final_Security_Audit_Report.pdf)
 
 4. **Deposit Messages Containing `extra_msg` Can Be Directly Submitted to `verify_deposit`**
 
-    _Satoshi Bridge — High_
+    _Satoshi Bridge — High_ · [Report](PDFs/250812_Defense_by_Thesis-NEAR_Satoshi_Bridge_Smart_Contracts_Final_Audit_Report.pdf)
 
 5. **User Can Mint Owed Fees as stBTC Resulting in Paying Zero Fees to the Portal**
 
-    _stBTC Smart Contracts — High_
+    _stBTC Smart Contracts — High_ · [Report](PDFs/240808_Thesis_Defense-Mezo-Acre_stBTC_Smart_Contracts_Security_Audit_Report.pdf)
 
 6. **`calc_pnl_long` Function Can Prevent Closure of Valid Positions and Deprive the User From Receiving Profit**
 
-    _Velar Vyper Smart Contracts — High_
+    _Velar Vyper Smart Contracts — High_ · [Report](PDFs/240717_Thesis_Defense-Velar_Vyper_Smart_Contracts_Security_Audit_Report.pdf)
 
-7. **Incorrect Implementation of addVestingScheduleAllocation and removeVestingScheduleAllocation (Systematic vesting accounting invariant violations)**
+7. **Incorrect Implementation of addVestingScheduleAllocation and removeVestingScheduleAllocation (Multiple vesting accounting invariant violations)**
 
-    _Data LakeToken Vesting smart contracts — severity not specified in the report_
+    _Data Lake Token Vesting smart contracts — severity not specified in the report_ · [Report](PDFs/LA/LeastAuthority_Data%20Lake%20Token_Vesting_Smart%20Contracts_Final_Audit_Report.pdf)
 
 8. **Deposited Tokens Can Be Redeemed**
 
-    _NEOKingdom DAO Smart Contracts — severity not specified in the report_
+    _NEOKingdom DAO Smart Contracts — severity not specified in the report_ · [Report](PDFs/LA/NEOkingdom_DAO_Smart_Contracts_Final_Audit_Report_Updated.pdf)
 
 9. **Collateral Can Be Lost if Added During the Liquidation Process**
 
-    _Templar Protocol — High_
+    _Templar Protocol — High_ · [Report](PDFs/250701_Defense_by_Thesis-Templar_Smart_Contracts_Final_Security_Audit_Report.pdf)
 
 10. **Incorrect Cutting of Cube Secure Payload From Message Data**
 
-    _Cube3 Smart Contracts — severity not specified in the report_
+    _Cube3 Smart Contracts — severity not specified in the report_ · [Report](PDFs/LA/Cube3_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf)
    
 ---
 
