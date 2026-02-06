@@ -16,6 +16,51 @@ Selected smart contract and protocol security audit reports are listed below.
 ### Selected Deep-Dive Audits
 - **Templar Protocol Smart Contracts** — Protocol-level invariant and state transition analysis  
 - **Rhea Finance Satoshi Bridge** — Cross-layer UTXO consistency and bridge state validation under adversarial transaction scenarios
+---
+
+### Top 10 Findings — Public Audit Reports
+
+1. **Duplicate Liquidations Can Drain Protocol Assets**
+
+    _Templar Protocol — Critical_
+
+2. **Conflicting UTXO Management Rules May Eventually Lead to Bridge Lockup**
+
+    _Satoshi Bridge — High_
+
+3. **Free Borrowing by Borrowing at the Start and Repaying at the End of a Time Chunk**
+
+    _Templar Protocol — High_
+
+4. **Deposit Messages Containing `extra_msg` Can Be Directly Submitted to `verify_deposit`**
+
+    _Satoshi Bridge — High_
+
+5. **User Can Mint Owed Fees as stBTC Resulting in Paying Zero Fees to the Portal**
+
+    _stBTC Smart Contracts — High_
+
+6. **`calc_pnl_long` Function Can Prevent Closure of Valid Positions and Deprive the User From Receiving Profit**
+
+    _Velar Vyper Smart Contracts — High_
+
+7. **Incorrect Implementation of addVestingScheduleAllocation and removeVestingScheduleAllocation (Systematic vesting accounting invariant violations)**
+
+    _Data LakeToken Vesting smart contracts — severity not specified in the report_
+
+8. **Deposited Tokens Can Be Redeemed**
+
+    _NEOKingdom DAO Smart Contracts — severity not specified in the report_
+
+9. **Collateral Can Be Lost if Added During the Liquidation Process**
+
+    _Templar Protocol — High_
+
+10. **Incorrect Cutting of Cube Secure Payload From Message Data**
+
+    _Cube3 Smart Contracts — severity not specified in the report_
+   
+---
 
 
 <table>
