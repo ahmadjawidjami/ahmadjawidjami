@@ -48,7 +48,7 @@ Selected smart contract and protocol security audit reports are listed below.
 
     _Data Lake Token Vesting smart contracts — severity not specified in the report_ · [Report](PDFs/LA/LeastAuthority_Data%20Lake%20Token_Vesting_Smart%20Contracts_Final_Audit_Report.pdf)
 
-8. **Deposited Tokens Can Be Redeemed**
+8. **Deposited Tokens Can Be Redeemed (Governance Violation)**
 
     _NEOKingdom DAO Smart Contracts — severity not specified in the report_ · [Report](PDFs/LA/NEOkingdom_DAO_Smart_Contracts_Final_Audit_Report_Updated.pdf)
 
