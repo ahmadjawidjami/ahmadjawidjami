@@ -18,7 +18,7 @@ Selected smart contract and protocol security audit reports are listed below.
 - **Rhea Finance Satoshi Bridge** — Cross-layer UTXO consistency and bridge state validation under adversarial transaction scenarios
 ---
 
-### Top 10 Findings — Public Audit Reports
+### Selected High-Impact Findings — Public Audits
 
 1. **Duplicate Liquidations Can Drain Protocol Assets**
 
