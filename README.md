@@ -58,7 +58,7 @@ Selected smart contract and protocol security audit reports are listed below.
 
 10. **Collateral Can Be Lost if Added During the Liquidation Process**
 
-    _Templar Protocol — High_ · [Report](PDFs/250701_Defense_by_Thesis-Templar_Smart_Contracts_Final_Security_Audit_Report.pdf)
+    _Templar Protocol Smart Contracts — High_ · [Report](PDFs/250701_Defense_by_Thesis-Templar_Smart_Contracts_Final_Security_Audit_Report.pdf)
 
 <!-- **Incorrect Cutting of Cube Secure Payload From Message Data**
 
