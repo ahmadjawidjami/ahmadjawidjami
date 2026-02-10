@@ -80,7 +80,7 @@ Selected smart contract and protocol security audit reports are listed below.
       <td><a href="https://www.mezo.org/">Mezo</a></td>
       <td>Mezo Earn Smart Contracts</td>
       <td>January 2026</td>
-      <td><a href="260130_Defense_by_Thesis-Mezo_Earn_Final_Audit_Report.pdf">📄</a></td>
+      <td><a href="PDFs/260130_Defense_by_Thesis-Mezo_Earn_Final_Audit_Report.pdf">📄</a></td>
       <td>Smart Contracts</td>
       <td>Solidity</td>
       <td>1, 2, 3, 4, 5, 6, 8, 9</td>
