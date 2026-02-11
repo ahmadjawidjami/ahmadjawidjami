@@ -1,7 +1,7 @@
 # Jawid
 
 
-Senior blockchain security engineer and auditor with over a decade of experience analyzing complex systems. Active Ethereum contributor since 2016, with 4+ years of professional experience assessing protocol and smart contract security across multiple blockchain ecosystems.
+Senior blockchain security auditor with over a decade of experience analyzing complex systems. Active Ethereum contributor since 2016, with 4+ years of professional experience assessing protocol and smart contract security across multiple blockchain ecosystems.
 
 Currently a Senior Security Auditor at Defense [by Thesis], previously at Least Authority, contributing to security assessments of 40+ projects spanning smart contracts, cross-chain infrastructure, and protocol-level architectures.
 
