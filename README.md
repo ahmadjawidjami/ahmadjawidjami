@@ -1,19 +1,18 @@
 # Jawid
 
 
-Senior blockchain security auditor with a strong software engineering background and over a decade of experience analyzing complex systems. Active Ethereum contributor since 2016, with 4+ years of professional experience conducting protocol and smart contract security audits.
+Senior blockchain security engineer and auditor with over a decade of experience analyzing complex systems. Active Ethereum contributor since 2016, with 4+ years of professional experience assessing protocol and smart contract security across multiple blockchain ecosystems.
 
-Currently a Senior Security Auditor at Defense [by Thesis], and previously a Security Auditor at Least Authority, with audits of 40+ projects spanning smart contract systems, cross-chain infrastructure, and protocol-level designs across multiple blockchain ecosystems.
+Currently a Senior Security Auditor at Defense [by Thesis], previously at Least Authority, contributing to security assessments of 40+ projects spanning smart contracts, cross-chain infrastructure, and protocol-level architectures.
 
-Specializes in identifying deep, protocol-level issues rather than surface-level defects through rigorous reasoning about system design, state transitions, and adversarial edge cases. Audit methodology combines meticulous line-by-line code review, documentation and design analysis, and direct engagement with protocol teams to uncover subtle, high-impact vulnerabilities.
+Focused on identifying systemic and protocol-level vulnerabilities through rigorous reasoning about trust boundaries, state transitions, economic assumptions, and adversarial edge cases. Combines detailed code analysis with architecture review and direct collaboration with protocol teams to uncover subtle, high-impact risks.
 
-Particularly interested in the security, correctness, and privacy properties of decentralized systems and their application to financial infrastructure.
+Particularly interested in the security, correctness, and privacy properties of decentralized financial infrastructure.
 
-Selected smart contract and protocol security audit reports are listed below.
 
-## Public Audits:
+## Public Security Assessments:
 
-### Selected High-Impact Findings — Public Audits
+### Selected High-Impact Findings:
 
 1. **Duplicate Liquidations Can Drain Protocol Assets**
 
@@ -49,7 +48,7 @@ Selected smart contract and protocol security audit reports are listed below.
 
 9. **Incorrect Implementation of addVestingScheduleAllocation and removeVestingScheduleAllocation (Multiple vesting accounting invariant violations)**
 
-    _Data Lake Token Vesting smart contracts — severity not specified in the report_ · [Report](PDFs/LA/LeastAuthority_Data%20Lake%20Token_Vesting_Smart%20Contracts_Final_Audit_Report.pdf)
+    _Data Lake Token Vesting Smart Contracts — Severity not specified in the report_ · [Report](PDFs/LA/LeastAuthority_Data%20Lake%20Token_Vesting_Smart%20Contracts_Final_Audit_Report.pdf)
 
 <!-- **Deposited Tokens Can Be Redeemed (Governance Violation)**
 
@@ -66,7 +65,7 @@ Selected smart contract and protocol security audit reports are listed below.
    
 ---
 
-
+### Selected Audit Engagements:
 <table>
   <thead>
     <tr>
@@ -82,8 +81,8 @@ Selected smart contract and protocol security audit reports are listed below.
   <tbody>
     <tr>
       <td><a href="https://www.mezo.org/"><strong>Mezo</a></strong></td>
-      <td><strong>Mezo Earn Smart Contracts</td>
-      <td><strong>January 2026</td>
+      <td><strong>Mezo Earn Smart Contracts</strong></td>
+      <td><strong>January 2026</strong></td>
       <td><strong><a href="PDFs/260130_Defense_by_Thesis-Mezo_Earn_Final_Audit_Report.pdf">📄</a></strong></td>
       <td><strong>Smart Contracts</strong></td>
       <td><strong>Solidity</strong></td>
