@@ -61,7 +61,6 @@ Particularly interested in the security, correctness, and privacy properties of 
 <!-- **Incorrect Cutting of Cube Secure Payload From Message Data**
 
     _Cube3 Smart Contracts — severity not specified in the report_ · [Report](PDFs/LA/Cube3_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf) -->
-
    
 ---
 
